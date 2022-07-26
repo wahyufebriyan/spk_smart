@@ -2,7 +2,7 @@
 	// connection
 	$host = 'localhost';
 	$username = 'root';
-	$password = 'wahyu2997';
+	$password = '';
 	$database = 'db_smart';
 
 	$koneksi = mysqli_connect($host,$username,$password);
